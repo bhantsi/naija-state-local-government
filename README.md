@@ -4,7 +4,7 @@
 
 [![npm version](https://badge.fury.io/js/naija-state-local-government.svg)](https://www.npmjs.com/package/naija-state-local-government)
 
-A simple utility library that lists Nigeria states and local governments with zero dependency
+A simple utility library that lists Nigeria states and local governments with zero dependency.
 
 ### Installation
 
@@ -25,7 +25,7 @@ import NaijaStates from 'naija-state-local-government';
 
 console.log(NaijaStates.all());
 console.log(NaijaStates.states());
-console.log(NaijaStates.lgas("Oyo"))
+console.log(NaijaStates.lgas("Oyo"));
 
 ```
 
